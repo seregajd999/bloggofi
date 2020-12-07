@@ -1,1 +1,1 @@
-# bloggofi
+# GofiBlog
